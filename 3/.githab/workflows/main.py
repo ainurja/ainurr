@@ -1,0 +1,1 @@
+print("Erdenetkyzy Ainur")
